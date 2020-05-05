@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01 单向链表-企业级版本", "01 单向链表-企业级版本\01 单向链表-企业级版本.vcxproj", "{D91F5825-7E4D-47BA-9957-E8083537EBB1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02 栈的顺序存储", "02 栈的顺序存储\02 栈的顺序存储.vcxproj", "{191D8568-EA74-432E-8119-E1BC06343806}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03 栈的链式存储", "03 栈的链式存储\03 栈的链式存储.vcxproj", "{6F2198A7-30BA-4B3A-8374-DDEA6C7E7E1D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 栈的应用-就近匹配案例", "04 栈的应用-就近匹配案例\04 栈的应用-就近匹配案例.vcxproj", "{C11A5633-8F8D-49D2-832E-BC97E07A4537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91F5825-7E4D-47BA-9957-E8083537EBB1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D91F5825-7E4D-47BA-9957-E8083537EBB1}.Debug|Win32.Build.0 = Debug|Win32
+		{D91F5825-7E4D-47BA-9957-E8083537EBB1}.Release|Win32.ActiveCfg = Release|Win32
+		{D91F5825-7E4D-47BA-9957-E8083537EBB1}.Release|Win32.Build.0 = Release|Win32
+		{191D8568-EA74-432E-8119-E1BC06343806}.Debug|Win32.ActiveCfg = Debug|Win32
+		{191D8568-EA74-432E-8119-E1BC06343806}.Debug|Win32.Build.0 = Debug|Win32
+		{191D8568-EA74-432E-8119-E1BC06343806}.Release|Win32.ActiveCfg = Release|Win32
+		{191D8568-EA74-432E-8119-E1BC06343806}.Release|Win32.Build.0 = Release|Win32
+		{6F2198A7-30BA-4B3A-8374-DDEA6C7E7E1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F2198A7-30BA-4B3A-8374-DDEA6C7E7E1D}.Debug|Win32.Build.0 = Debug|Win32
+		{6F2198A7-30BA-4B3A-8374-DDEA6C7E7E1D}.Release|Win32.ActiveCfg = Release|Win32
+		{6F2198A7-30BA-4B3A-8374-DDEA6C7E7E1D}.Release|Win32.Build.0 = Release|Win32
+		{C11A5633-8F8D-49D2-832E-BC97E07A4537}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C11A5633-8F8D-49D2-832E-BC97E07A4537}.Debug|Win32.Build.0 = Debug|Win32
+		{C11A5633-8F8D-49D2-832E-BC97E07A4537}.Release|Win32.ActiveCfg = Release|Win32
+		{C11A5633-8F8D-49D2-832E-BC97E07A4537}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
